@@ -6,11 +6,11 @@ Turn climate data into meaningful stories with Python, Altair, and Streamlit.
 
 ## Overview
 
-This two-day, hands-on workshop helps participants create clear and compelling data-driven stories. Using climate data (e.g., temperature trends), the workshop guides learners from raw datasets to meaningful narratives and Streamlit-based interactive visualizations. Participants learn how to move beyond simple charts and craft stories that effectively convey change, context, and significance.
+~~This two-day, hands-on workshop~~ helps participants create clear and compelling data-driven stories. Using climate data (e.g., temperature trends), the workshop guides learners from raw datasets to meaningful narratives and Streamlit-based interactive visualizations. Participants learn how to move beyond simple charts and craft stories that effectively convey change, context, and significance.
 
 <br>
 
-## Workshop Structure
+## Tutorial Structure
 
 <table>
 <tr>
