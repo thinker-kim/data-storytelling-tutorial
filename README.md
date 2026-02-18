@@ -1,4 +1,4 @@
-# A Data Storytelling Workshop: Making Climate Data Visible with Streamlit
+# A Data Storytelling Tutorial: Making Climate Data Visible with Streamlit
 
 Turn climate data into meaningful stories with Python, Altair, and Streamlit.
 
