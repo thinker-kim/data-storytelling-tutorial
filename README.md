@@ -6,7 +6,15 @@ Turn climate data into meaningful stories with Python, Altair, and Streamlit.
 
 ## Overview
 
-~~This two-day, hands-on workshop~~ helps participants create clear and compelling data-driven stories. Using climate data (e.g., temperature trends), the workshop guides learners from raw datasets to meaningful narratives and Streamlit-based interactive visualizations. Participants learn how to move beyond simple charts and craft stories that effectively convey change, context, and significance.
+This tutorial provides a structured, hands-on guide to creating clear and compelling data-driven stories. Using climate data such as temperature trends, it walks learners step by step from raw datasets to meaningful narratives and Streamlet-based interactive visualizations. Rather than focusing on isolated charts, it emphasizes how to construct coherent data stories that convey change, context, and significance.
+
+<br>
+
+## Tutorial Walkthrough Video
+
+A walkthrough video for this tutorial is available here:
+
+👉 [Watch the tutorial video]()
 
 <br>
 
@@ -16,16 +24,16 @@ Turn climate data into meaningful stories with Python, Altair, and Streamlit.
 <tr>
 <td width="50%">
 
-**Day 1 · Data Analysis & Visualization**
+**Part 1 · Data Analysis & Visualization**
 
-3 hours · Beginner to Intermediate
+Approx. 2 hours · Beginner to Intermediate
 
 </td>
 <td width="50%">
 
-**Day 2 · Interactive Dashboard**
+**Part 2 · Interactive Dashboard**
 
-3 hours · Intermediate
+Approx. 2 hours · Beginner to Intermediate
 
 </td>
 </tr>
@@ -80,8 +88,8 @@ Data provided by [Berkeley Earth Surface Temperature Study](https://berkeleyeart
 ## Quick Start
 
 ```bash
-git clone https://github.com/thinker-kim/Data-Storytelling-Workshop.git
-cd Data-Storytelling-Workshop
+git clone https://github.com/thinker-kim/data-storytelling-tutorial.git
+cd data-storytelling-tutorial
 
 python -m venv venv
 source venv/bin/activate
@@ -96,8 +104,8 @@ streamlit run app.py
 
 ```
 Data-Storytelling-Workshop/
-├── DAY1_TUTORIAL.ipynb
-├── DAY2_TUTORIAL.ipynb
+├── PART1_TUTORIAL.ipynb
+├── PARt2_TUTORIAL.ipynb
 ├── app.py
 ├── requirements.txt
 ├── data/
@@ -109,7 +117,7 @@ Data-Storytelling-Workshop/
 
 ## Curriculum
 
-### Day 1 · Climate Data Storytelling
+### Part 1 · Climate Data Storytelling
 
 <table>
 <tr><td>1</td><td>Introduction to data storytelling and temperature anomalies</td></tr>
@@ -123,7 +131,7 @@ Data-Storytelling-Workshop/
 <tr><td>9</td><td>Export workflows — HTML, CSV</td></tr>
 </table>
 
-### Day 2 · Interactive Dashboard
+### Part 2 · Interactive Dashboard
 
 <table>
 <tr><td>1</td><td>Streamlit architecture and execution model</td></tr>
