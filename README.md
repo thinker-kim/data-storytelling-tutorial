@@ -20,7 +20,7 @@ A walkthrough video for this tutorial is available here:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#f6f8fa; padding:15px;">
 
 <h3>Part 1 · Data Analysis & Visualization</h3>
 
@@ -33,7 +33,7 @@ Familiarity with data tables</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#f6f8fa; padding:15px;">
 
 <h3>Part 2 · Interactive Dashboard</h3>
 
@@ -47,7 +47,6 @@ Familiarity with data visualization concepts</p>
 </td>
 </tr>
 </table>
-
 <br>
 
 ## What You'll Create
