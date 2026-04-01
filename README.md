@@ -6,7 +6,7 @@ Turn climate data into meaningful stories with Python, Altair, and Streamlit.
 
 ## Overview
 
-This tutorial provides a structured, hands-on guide to creating clear and compelling data-driven stories. Using climate data such as temperature trends, it walks learners step by step from raw datasets to meaningful narratives and Streamlet-based interactive visualizations. Rather than focusing on isolated charts, it emphasizes how to construct coherent data stories that convey change, context, and significance.
+This tutorial provides a structured, hands-on guide to creating compelling data-driven stories. Using climate data such as temperature trends, it guides learners from raw datasets to interactive visualizations and clear narratives, communicating change, context, and significance.
 
 <br>
 
@@ -26,19 +26,20 @@ A walkthrough video for this tutorial is available here:
 
 **Part 1 · Data Analysis & Visualization**
 
-Approx. 2 hours · Beginner to Intermediate
+Approx. 2 hours · Beginner to Intermediate  
+Prerequisites: Basic Python and pandas, familiarity with data tables
 
 </td>
 <td width="50%">
 
 **Part 2 · Interactive Dashboard**
 
-Approx. 2 hours · Beginner to Intermediate
+Approx. 2 hours · Beginner to Intermediate  
+Prerequisites: Basic Python, prior exposure to data visualization concepts
 
 </td>
 </tr>
 </table>
-
 <br>
 
 ## What You'll Create
