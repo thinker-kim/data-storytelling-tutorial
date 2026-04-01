@@ -10,43 +10,26 @@ This tutorial provides a structured, hands-on guide to creating compelling data-
 
 <br>
 
+## Tutorial Structure
+
+<table>
+<tr style="background-color:#f6f8fa;">
+<td width="50%"><b>Part 1 · Data Analysis & Visualization</b></td>
+<td width="50%">Approx. 2 hours · Beginner to Intermediate<br>Basic Python and pandas · Familiarity with data tables</td>
+</tr>
+<tr>
+<td width="50%"><b>Part 2 · Interactive Dashboard</b></td>
+<td width="50%">Approx. 2 hours · Beginner to Intermediate<br>Basic Python · Familiarity with data visualization concepts</td>
+</tr>
+</table>
+
+<br>
+
 ## Tutorial Walkthrough Video
 
 A walkthrough video for this tutorial is available here:
 
 👉 [Watch the tutorial video]()
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Part 1 · Data Analysis & Visualization</h3>
-
-<p><b>Duration:</b> ~2 hours<br>
-<b>Level:</b> Beginner to Intermediate</p>
-
-<p><b>Prerequisites:</b><br>
-Basic Python and pandas<br>
-Familiarity with data tables</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Part 2 · Interactive Dashboard</h3>
-
-<p><b>Duration:</b> ~2 hours<br>
-<b>Level:</b> Beginner to Intermediate</p>
-
-<p><b>Prerequisites:</b><br>
-Basic Python<br>
-Familiarity with data visualization concepts</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
