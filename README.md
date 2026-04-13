@@ -74,9 +74,9 @@ Data provided by [Berkeley Earth Surface Temperature Study](https://berkeleyeart
 <td><b>Time Span</b></td>
 </tr>
 <tr>
-<td>534,571</td>
+<td>333,193</td>
 <td>233</td>
-<td>1743 – 2020</td>
+<td>1900 – 2020</td>
 </tr>
 </table>
 
@@ -89,8 +89,7 @@ Data provided by [Berkeley Earth Surface Temperature Study](https://berkeleyeart
 <tr><td><code>Month</code></td><td>Month (1-12)</td></tr>
 <tr><td><code>Country</code></td><td>Country name</td></tr>
 <tr><td><code>Temperature</code></td><td>Absolute temperature (°C)</td></tr>
-<tr><td><code>Monthly_variation</code></td><td>Variation from monthly average</td></tr>
-<tr><td><code>Anomaly</code></td><td>Temperature anomaly from baseline (°C)</td></tr>
+<tr><td><code>Anomaly</code></td><td>Observed Temperature − Baseline Average (1951–1980, per country/month) (°C)</td></tr>
 </table>
 
 <br>
