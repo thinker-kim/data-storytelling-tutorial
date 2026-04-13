@@ -20,8 +20,8 @@ This tutorial provides a structured, hands-on guide to creating compelling data-
   </tr>
   <tr>
     <td><b>Duration</b></td>
-    <td>~1 hours</td>
-    <td>~1 hours</td>
+    <td>~1.5 hours</td>
+    <td>~1.5 hours</td>
   </tr>
   <tr>
     <td><b>Level</b></td>
