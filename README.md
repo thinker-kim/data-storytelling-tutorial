@@ -48,6 +48,10 @@ A walkthrough video for this tutorial is available here:
 
 👉 [Watch the tutorial video]()
 
+### Live Demo
+
+👉 [View the live dashboard](https://data-storytelling-tutorial-jkq5kvubm6ezd8sxyow7n5.streamlit.app/)
+
 <br>
 
 ## What You'll Create
