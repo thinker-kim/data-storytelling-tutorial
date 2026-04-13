@@ -46,7 +46,7 @@ This tutorial provides a structured, hands-on guide to creating compelling data-
 
 A walkthrough video for this tutorial is available here:
 
-👉 [Watch the tutorial video]()
+👉 [Watch the tutorial video](https://emailarizona-my.sharepoint.com/:v:/g/personal/hyowonkim_arizona_edu/IQA4NrQsVXHfR46hDjIQZXe2AYKY48UjzChHhH1Mdaep3zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8RRsnl)
 
 ### Live Demo
 
