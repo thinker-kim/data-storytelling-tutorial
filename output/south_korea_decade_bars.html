@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-1eb35205e185010e7133d24acefad130"}, "mark": {"type": "bar", "size": 40}, "encoding": {"color": {"condition": {"test": "(datum.Avg_Anomaly > 0)", "value": "#e74c3c"}, "value": "#3498db"}, "tooltip": [{"field": "Decade", "title": "Decade", "type": "ordinal"}, {"field": "Avg_Anomaly", "format": ".3f", "title": "Avg Anomaly", "type": "quantitative"}], "x": {"axis": {"labelAngle": 0}, "field": "Decade", "title": "Decade", "type": "ordinal"}, "y": {"field": "Avg_Anomaly", "title": "Average Anomaly (\u00b0C)", "type": "quantitative"}}, "height": 400, "title": "South Korea: Average Temperature Anomaly by Decade", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-1eb35205e185010e7133d24acefad130": [{"Decade": 1900, "Avg_Anomaly": -0.5934138888888887}, {"Decade": 1910, "Avg_Anomaly": -0.6127388888888887}, {"Decade": 1920, "Avg_Anomaly": -0.40428888888888864}, {"Decade": 1930, "Avg_Anomaly": -0.1704055555555555}, {"Decade": 1940, "Avg_Anomaly": -0.18773055555555532}, {"Decade": 1950, "Avg_Anomaly": 0.0012777777777778997}, {"Decade": 1960, "Avg_Anomaly": 0.021952777777778088}, {"Decade": 1970, "Avg_Anomaly": 0.09028611111111126}, {"Decade": 1980, "Avg_Anomaly": 0.0042027777777779}, {"Decade": 1990, "Avg_Anomaly": 0.6690194444444446}, {"Decade": 2000, "Avg_Anomaly": 0.7484361111111112}, {"Decade": 2010, "Avg_Anomaly": 0.8610361111111112}, {"Decade": 2020, "Avg_Anomaly": 1.2587527777777776}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
